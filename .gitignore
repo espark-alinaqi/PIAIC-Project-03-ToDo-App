@@ -1,0 +1,36 @@
+# Ignore built files and directories
+dist/
+node_modules/
+package-lock.json
+
+# Ignore local configuration files
+*.env
+
+# Ignore TypeScript configuration
+tsconfig.json
+
+# Ignore npm configuration
+package-lock.json
+
+# Ignore logs and databases
+*.log
+*.sqlite
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains IDE settings
+.idea/
+package-lock.json
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore environment-specific files
+.env.local
+.env.development
+.env.test
+.env.production
