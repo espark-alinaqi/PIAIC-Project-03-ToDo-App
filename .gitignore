@@ -1,7 +1,6 @@
 # Ignore built files and directories
 dist/
 node_modules/
-package-lock.json
 
 # Ignore local configuration files
 *.env
@@ -10,7 +9,6 @@ package-lock.json
 tsconfig.json
 
 # Ignore npm configuration
-package-lock.json
 
 # Ignore logs and databases
 *.log
@@ -24,7 +22,6 @@ package-lock.json
 
 # Ignore JetBrains IDE settings
 .idea/
-package-lock.json
 
 # Ignore test coverage reports
 coverage/
