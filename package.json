@@ -12,7 +12,7 @@
   "author": "syedalinaqihasni",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^12.6.3"
+    "inquirer": "^13.1.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.3"
